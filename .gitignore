@@ -5,6 +5,6 @@ pyenv/
 bin/
 include/
 lib/
-lib64/
+lib64
 share/
-yvenv.cfg
+pyvenv.cfg
