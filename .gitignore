@@ -1,0 +1,10 @@
+# pyenv
+.python-version
+pyenv-win/
+pyenv/
+bin/
+include/
+lib/
+lib64/
+share/
+yvenv.cfg
